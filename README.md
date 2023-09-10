@@ -25,10 +25,10 @@ I'm Justin, a backend Software Developer from Seattle, Washington, USA.
 ## Learning
 [
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-](https://github.com/justindstein?tab=repositories&q=&type=&language=c%23)
+](https://github.com/justindstein?tab=repositories&q=unity)
 [
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-](https://github.com/justindstein?tab=repositories&q=unity)
+](https://github.com/justindstein?tab=repositories&q=&type=&language=c%23)
 ## Highlighted Projects
 |Name | Description | Languages | Framework/Engine/Libs |
 |------|-------|------| ----- |
