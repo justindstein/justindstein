@@ -1,5 +1,5 @@
 # Hi!
-I'm Justin, A backend Software Developer from Seattle, Washington, USA.
+I'm Justin, a backend Software Developer from Seattle, Washington, USA.
 
 ## Contact
 [
