@@ -36,4 +36,4 @@ I'm Justin, a backend Software Developer from Seattle, Washington, USA.
 | [Flappy Bird](https://github.com/justindstein/flappy-bird) | N/A | A flappy bird clone. | C#/Unity 
 | [Delivery Driver](https://github.com/justindstein/delivery-driver) | [justindstein.itch.io/delivery-driver](https://justindstein.itch.io/delivery-driver) | A 2d overhead delivery game with emphases on event-driven architecture and resource pooling. | C#/Unity 
 | [Snow Boarder](https://github.com/justindstein/snow-boarder) | [justindstein.itch.io/snow-boarder](https://justindstein.itch.io/snow-boarder) | A 2d snowboarding platformer with emphasis on player physics, level design, and state management. | C#/Unity 
-| [Quiz Master](https://github.com/justindstein/quiz-master) | In Progress | A quiz game with emphasis on event-driven architecture and canvas design. | C#/Unity 
+| [Quiz Master](https://github.com/justindstein/quiz-master) | In Progress | A quiz game with emphasis on event-driven architecture, canvas design, ability to contribute to quiz/question pool without code changes. | C#/Unity 
