@@ -31,7 +31,7 @@ I'm Justin, a backend Software Developer from Seattle, Washington, USA.
 ](https://github.com/justindstein?tab=repositories&q=&type=&language=c%23)
 ## Highlighted Projects
 |Project Name | Description | Languages | Framework/Engine/Libs | Github |
-|------|-------|------| ----- |
+|------|-------|------| ----- | ----- |
 | [Flappy Bird](https://github.com/justindstein/flappy-bird) | A flappy bird clone. | C# | Unity | [github.com/justindstein/flappy-bird](https://github.com/justindstein/flappy-bird)
 | [Delivery Driver](https://github.com/justindstein/delivery-driver) | A 2d overhead delivery game. | C# | Unity | [github.com/justindstein/delivery-driver](https://github.com/justindstein/delivery-driver)
 | [Snow Boarder](https://github.com/justindstein/snow-boarder) | A 2d snowboarding platformer. | C# | Unity | [github.com/justindstein/snow-boarder](https://github.com/justindstein/snow-boarder)
