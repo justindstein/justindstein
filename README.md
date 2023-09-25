@@ -29,10 +29,11 @@ I'm Justin, a backend Software Developer from Seattle, Washington, USA.
 [
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ](https://github.com/justindstein?tab=repositories&q=&type=&language=c%23)
+
 ## Highlighted Projects
-|Project Name | Description | Languages | Framework/Engine/Libs | Github |
-|------|-------|------| ----- | ----- |
-| [Flappy Bird](https://github.com/justindstein/flappy-bird) | A flappy bird clone. | C# | Unity | [github.com/justindstein/flappy-bird](https://github.com/justindstein/flappy-bird)
-| [Delivery Driver](https://github.com/justindstein/delivery-driver) | A 2d overhead delivery game. | C# | Unity | [github.com/justindstein/delivery-driver](https://github.com/justindstein/delivery-driver)
-| [Snow Boarder](https://github.com/justindstein/snow-boarder) | A 2d snowboarding platformer. | C# | Unity | [github.com/justindstein/snow-boarder](https://github.com/justindstein/snow-boarder)
-| In progress | A quiz game. | C# | Unity | [github.com/justindstein/quiz-master](https://github.com/justindstein/quiz-master)
+|Project Name|Demo|Description|Tech|
+|------|-------|------|-----|
+| [Flappy Bird](https://github.com/justindstein/flappy-bird) | N/A | A flappy bird clone. | C#/Unity 
+| [Delivery Driver](https://github.com/justindstein/delivery-driver) | [justindstein.itch.io/delivery-driver](https://justindstein.itch.io/delivery-driver) | A 2d overhead delivery game with emphases on event-driven architecture and resource pooling. | C#/Unity 
+| [Snow Boarder](https://github.com/justindstein/snow-boarder) | [justindstein.itch.io/snow-boarder](https://justindstein.itch.io/snow-boarder) | A 2d snowboarding platformer with emphasis on player physics, level design, and state management. | C#/Unity 
+| [Quiz Master](https://github.com/justindstein/quiz-master) | In Progress | A quiz game with emphasis on event-driven architecture and canvas design. | C#/Unity 
