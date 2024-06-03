@@ -13,6 +13,9 @@ I'm Justin, a backend Software Developer from Seattle, Washington, USA.
 ## Learning
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/justindstein?tab=repositories&q=unity)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/justindstein?tab=repositories&q=&type=&language=c%23)
+[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/justindstein?tab=repositories&q=javascript)
+[![Angular](https://img.shields.io/badge/ANGULAR-white?style=for-the-badge&logo=angular&logoColor=c4002b)](https://github.com/justindstein?tab=repositories&q=&type=&language=angular)
+
 
 ## Highlighted Projects
 |Project Name|Demo|Description|Tech|
