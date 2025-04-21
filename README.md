@@ -6,16 +6,16 @@ I'm Justin, a backend Software Developer from Seattle, Washington, USA.
 
 ## Programming Languages and Tools
 [![Java/Spring](https://img.shields.io/badge/Java/Spring-white?style=for-the-badge&logo=spring&logoColor=6DB33F)](https://github.com/justindstein?tab=repositories&q=&type=&language=java)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/justindstein?tab=repositories&q=&type=&language=c%23)
 [![MYSQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/justindstein?tab=repositories&q=mysql&type=&language=&sort=)
 [![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/justindstein?tab=repositories&q=python&type=&language=&sort=)
 [![AWS](https://img.shields.io/badge/aws-white?style=for-the-badge&logo=amazonaws&logoColor=orange)](https://github.com/justindstein?tab=repositories&q=aws&type=&language=&sort=)
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/justindstein?tab=repositories&q=javascript)
 [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://github.com/justindstein?tab=repositories&q=unity)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/justindstein?tab=repositories&q=&type=&language=c%23)
+
 ## Learning
 [![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://github.com/justindstein?tab=repositories&q=javascript)
 [![Angular](https://img.shields.io/badge/ANGULAR-white?style=for-the-badge&logo=angular&logoColor=c4002b)](https://github.com/justindstein?tab=repositories&q=&type=&language=angular)
-
 
 ## Highlighted Projects
 |Project Name|Demo|Description|Tech|
