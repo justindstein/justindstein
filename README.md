@@ -22,9 +22,9 @@ Most of the projects you’ll find on my GitHub are free to use — feel free to
 ## Highlighted Projects
 |Project Name|Demo|Description|Tech|
 |------|-------|------|-----|
-| [Crons]([url](https://github.com/justindstein/crons) | N/A | Recurring scripts/bins that run via cron/Task Scheduler. | Bash |
-| [Shell Run Commands]([url](https://github.com/justindstein/shell-run-commands) | N/A | Personal shell RC files and customizations. | Bash |
-| [SQL Minifier]([url](https://github.com/justindstein/sql-minifier) | N/A | A blazing-fast, dependency-free SQL minifier for the command line. Removes comments and collapses whitespace so your SQL is ready for logs, APIs, or inline embedding. | Perl |
+| [Crons](https://github.com/justindstein/crons) | N/A | Recurring scripts/bins that run via cron/Task Scheduler. | Bash |
+| [Shell Run Commands](https://github.com/justindstein/shell-run-commands) | N/A | Personal shell RC files and customizations. | Bash |
+| [SQL Minifier](https://github.com/justindstein/sql-minifier) | N/A | A blazing-fast, dependency-free SQL minifier for the command line. Removes comments and collapses whitespace so your SQL is ready for logs, APIs, or inline embedding. | Perl |
 | [Flappy Bird](https://github.com/justindstein/flappy-bird) | [justindstein.itch.io/flappy-bird](https://justindstein.itch.io/flappy-bird) | A flappy bird clone. | C#/Unity 
 | [Delivery Driver](https://github.com/justindstein/delivery-driver) | [justindstein.itch.io/delivery-driver](https://justindstein.itch.io/delivery-driver) | A 2d overhead delivery game with emphases on event-driven architecture and resource pooling. | C#/Unity 
 | [Snow Boarder](https://github.com/justindstein/snow-boarder) | [justindstein.itch.io/snow-boarder](https://justindstein.itch.io/snow-boarder) | A 2d snowboarding platformer with emphasis on player physics, level design, and state management. | C#/Unity 
