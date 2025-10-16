@@ -1,5 +1,7 @@
 # Hi!
-I'm Justin, a backend Software Developer from Seattle, Washington, USA.
+I'm Justin, a backend software developer based in Seattle, Washington. I love designing end-to-end systems, exploring new programming languages, and experimenting with tools that make me a more effective engineer.
+
+Most of the projects you’ll find on my GitHub are free to use — feel free to explore and adapt them! I especially enjoy creating simple command-line utilities that streamline development workflows, reduce repetitive tasks, and make coding just a little more efficient.
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justindstein/)
